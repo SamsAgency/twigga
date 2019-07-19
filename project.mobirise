@@ -1,0 +1,1285 @@
+{
+  "settings": {
+    "name": "Twigga Tech",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#2969b0",
+        "secondaryColor": "#00a885",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Roboto Slab",
+        "subtitleFont": "Oxygen",
+        "textFont": "Titillium Web",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#bfcecb",
+        "#a0a0a0",
+        "#8c8c8c",
+        "#151414"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.7",
+    "siteFonts": [],
+    "uniqCompNum": 18,
+    "versionPublish": "4.9.7",
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "google-analytics": "",
+    "gdpr": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Twigga web designers and developers | The best in Kenya & world wide",
+        "meta_descr": "Twigga is a web design company that designs and develop mobile responsive and attractive websites that on hosting your are likely to get an increment of 60% plus more profit than the average ones. Different clients have tested and found out that it worked . We also design amazing graphic designs that will wow your customers subconsciously programing them to buy your product. Twigga Technology is the best web design company you will ever get. We Twigga Technology boast the the richest portfolio of great well done websites ever. \nWe are Twigga, The best web design company in Kenya, Africa and world wide",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2969b0",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-3\">Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-4\">Ui &amp; Ux Designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-5\">Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table2-b\">Pricing<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials1-c\">Testimonials</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Portfolio.html#content5-g\" aria-expanded=\"false\">PORTFOLIO<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-8\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-117x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TWIGGA TECHNOLOGY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/macbook-624707-1920-1920x1275.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Get the best online presence",
+          "text": "We design attractive, beautiful mobile responsive web applications that attracts clients' attention and well planned information architecture of your business",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/940607-l-1400x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "About Us",
+          "text": "Twigga Technology is the best information technology and web design company in Kenya that provides information technology (IT) solutions, products and services using ultra-modern technologies. Our capacities involve web design &amp; development, graphic designs and 3D modelling &amp; rendering. We are built in trust, team work, professionalism, creativity, problem solving and greatness. We use html, css, javascript and python(django) to make you the best and stunning websites and graphic designs that might increase productivity by 60%, Trust us, we mean what we say..\n<br>\n<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-8\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/684748-l-1-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/macbook-624707-1920-600x398.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Web Design",
+          "subtitle1": "Static Web pages",
+          "caption1": "We design good and unique front end/static application that are not only mobile responsive but also neat, well structures, fast, well formated content",
+          "title2": "Web Development",
+          "subtitle2": "Full stack web application",
+          "caption2": "We design full stack web applications with database integrations and complex functionality, like e-commerce websites and other web apps",
+          "title3": "Web Re-design &amp; Maintenance",
+          "subtitle3": "Edits",
+          "caption3": "Thinking of re-designing your application?, Adding something?Making it responsive? We make this happen. Try us",
+          "title4": "Graphic Design",
+          "subtitle4": "Graphics",
+          "caption4": "We design logos, flyers, magazines 3d animations and renders. We also help to make ideal color combinations in branding your organization.",
+          "title5": "SEO",
+          "subtitle5": "Get found on google&nbsp;",
+          "caption5": "Getting found on the first pages of google may be hard. Thanks to us we have the SEO skills which will make your website appear on google first pages.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-8\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-8\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-8\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-8\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"index.html#form1-8\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-3",
+          "_styles": {
+            "H4": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lake-irene-1679708-1920-1920x1279.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/605420-l-1400x930.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Great UI &amp; UX",
+          "text": "Have you ever visited website with poor color scemes, or poor and blurred images or trying to figure out what is what, where is the navigation bar, where do i click to get contact form, i bet you have. We are experienced developers who understand that some people visiting your website may know little information about web stuff, so what we design can be easily read and understand by all, both computer literate and computer illetrate.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Did you know that 46% of people say waiting for pages to load is what they dislike most about browsing the web on mobile.</p><p>When creating a landing page, you consider several factors (layout, content hierarchy, visuals, CTA, and more). But as Google encourages, page speed needs to be a priority too. Your visitors don’t like waiting—and their frustration has only grown since the 2015 survey linked above—so always consider load time (regardless of device) just as much as traditional design elements.</p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-6",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-price-figure": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            },
+            ".mbr-plan-title": {
+              "color": "#000000"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#151414"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": "hidden",
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "description1": "Simple",
+          "description2": "Business",
+          "description3": "Professional",
+          "description4": "More details",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-8\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-8\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-8\" class=\"btn btn-secondary-outline btn-secondary\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "PRICING&nbsp;",
+          "subtitle": "Amazing services at good prices",
+          "title1": "BASIC",
+          "title2": "STANDARD",
+          "title3": "PREMIUM",
+          "title4": "ULTIMATE",
+          "subtitle1": "Description",
+          "subtitle2": "Description",
+          "subtitle3": "Description",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "250",
+          "price2": "500",
+          "price3": "750",
+          "price4": "0",
+          "period1": "+",
+          "period2": "+",
+          "period3": "+",
+          "period4": "/mo.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Up to 4 pages&nbsp; &nbsp;</li><li class=\"list-group-item\">Up to 6 screens</li><li class=\"list-group-item\">Responsive Design</li><li class=\"list-group-item\">Google map embeded</li><li class=\"list-group-item\">Media embeded</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Up to 8 pages</li><li class=\"list-group-item\">Up to 12 screens</li><li class=\"list-group-item\">Database integrated</li><li class=\"list-group-item\">Free content generation</li><li class=\"list-group-item\">Free logo&nbsp;</li><li class=\"list-group-item\">Free banners</li><li class=\"list-group-item\">Free updates for 1 month</li><li class=\"list-group-item\">Search engine friendly</li><li class=\"list-group-item\">Upto 5 design revisions</li><li class=\"list-group-item\">Free social media management for 5 days</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Upto &nbsp;12 pages</li><li class=\"list-group-item\">More than 12 screens</li><li class=\"list-group-item\">Database integrated</li><li class=\"list-group-item\">Free content generation</li><li class=\"list-group-item\">Ecomerce integrated</li><li class=\"list-group-item\">Free magazine, logo or flyer</li><li class=\"list-group-item\">Web analitics</li><li class=\"list-group-item\">Free updates for 2 months</li><li class=\"list-group-item\">Search engine friendly</li><li class=\"list-group-item\">Expert Technical Support</li><li class=\"list-group-item\">Up to 12 design revisions</li><li class=\"list-group-item\">Document Uploads</li><li class=\"list-group-item\">Online payment systems</li><li class=\"list-group-item\">Free social mesia management for 2 weeks</li><li class=\"list-group-item\"><br></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/george-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "WHAT OUR HAPPY CLIENTS SAY",
+          "subtitle": "A word from our testimonials",
+          "testimonial": [
+            {
+              "authorName": "Patel G.",
+              "authorBio": "Business person",
+              "text": "“its really very amazing work. I had my music website completed within 36 hours with full functionality. Good work and God Bless You”",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/phone-875488-1920-160x107.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Rachael M.",
+              "authorBio": "Manager at Uhuru ltd",
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super cool work. Good work Twigga . Great effort and super User Interface experience with a great website in present web design world.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/attractive-1869761-1921-160x107.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Rodrick K.",
+              "authorBio": "Graphic Designer",
+              "text": "<p>“You guys are the best, so friendly, so nice, so professional. Very very fast. Kudos Guys. Regards.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/people-875617-1920-128x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-c",
+          "_styles": {
+            ".card-block P": {
+              "font-size": "16px"
+            },
+            ".card-block": {
+              "font-size": "16px",
+              "color": "#2969b0"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Let's talk",
+          "subtitle": "Need a one, lets communicate<br><br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
+          "form": {
+            "action": "josephsam046@gmail.com",
+            "alerts": {
+              "success": "Your message was sent successfully"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-8",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#2969b0"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tree-2916763-1920-1920x1138.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5",
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15955.015667134974!2d36.89444985828855!3d-1.3234998146030927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ske!4v1561454707951!5m2!1sen!2ske\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>Address</strong><br>Airport North Road<br>Nairobi, &nbsp;Kenya<br><br><br>\n<strong>Contacts</strong><br>\nEmail: samstore637@gmail.com<br>Email 2: josephsam046@gmail.com<br><br>\nPhone : +254 799 756 331<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Roboto Slab, serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Offers</b></span></font></p><p class=\"mbr-contacts__text\">Our offers are extreemely tempting and irresistable. Comparing what we are charging to the result you will get when completed is completely fascinating and interesting. I bet you are asking how we do this but believe us, we are good at doing good stuffs. We also noticed that some clients don't have full cash for payment that's why we have created a monthly payment plan whereby you will deposit 40% &nbsp;of the amount then the rest will be paid up to 3 months in form of installments</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-9",
+          "_styles": {
+            "STRONG": {
+              "color": "#2969b0"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "Portfolio.html": {
+      "settings": {
+        "meta_descr": "Twigga technology has one of the richest portfolio you will ever imagine. The website created are great, responsive, fast, attractive, with great UI and Ux. \nInformation are well arranged website easy to scan and know what the webste is all about. Further more is done within the shortest period ever. \nHave a look at our amazing portfolio and compare to other portfolio",
+        "title": "Portfolio | Website Completed || Twigga technology , the best web designers ever",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2969b0",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-3\">Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-4\">Ui &amp; Ux Designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery1-5\">Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table2-b\">Pricing<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials1-c\">Testimonials</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Portfolio.html#content5-g\" aria-expanded=\"false\">PORTFOLIO<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-8\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-117x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TWIGGA TECHNOLOGY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "72px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "21px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "5",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/b1-1680x1000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0"
+          },
+          "title": "PORTFOLIO",
+          "caption": "<p>Have a look at our work</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-g"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#ffffff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/real-estate-1-1385x799.png",
+                "thumb": "@PROJECT_PATH@/assets/images/real-estate-1-1385x799-800x527.png",
+                "alt": "Real Estate Made By Twigga ",
+                "title": "Real Estate Twigga technology",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/oil-rig-1408x794.png",
+                "thumb": "@PROJECT_PATH@/assets/images/oil-rig-1408x794-800x469.png",
+                "alt": "Oil minining website made by Twigga Tech",
+                "title": "Oil Rig || Twigga tech",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/twigga-pro-1580x790.png",
+                "thumb": "@PROJECT_PATH@/assets/images/twigga-pro-1580x790-800x472.png",
+                "alt": "Best Corporate Website made by Twigga Technology Website",
+                "title": "Corporate Website Made By Twigga Tech",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/real-estate-2-1357x799.png",
+                "thumb": "@PROJECT_PATH@/assets/images/real-estate-2-1357x799-800x519.png",
+                "alt": "Amazing Real Estate Website made by Twigga Teechnology",
+                "title": "Pink Themed Real Estate Made by Twigga Tech",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/adventure-1-1568x790.png",
+                "thumb": "@PROJECT_PATH@/assets/images/adventure-1-1568x790-800x517.png",
+                "alt": "Adventure Tours Website Mobile responsive",
+                "title": "Adventure Twigga Tech",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/agibiz-1-1399x769.png",
+                "thumb": "@PROJECT_PATH@/assets/images/agibiz-1-1399x769-800x495.png",
+                "alt": "Fruits Agriculture responsive website",
+                "title": "Fruits Twigga Tech",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/blue-1536x785.png",
+                "thumb": "@PROJECT_PATH@/assets/images/blue-1536x785-800x478.png",
+                "alt": "Tour Website ",
+                "title": "Tourist website",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/electro-shop-1-1495x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/electro-shop-1-1495x768-800x511.png",
+                "alt": "Ecommerce Web made by Twigga Tech",
+                "title": "Eccomerce electronic Web | Twigga",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ball-regista-1402x797.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ball-regista-1402x797-800x455.png",
+                "alt": "Softball Registration form website",
+                "title": "Registration Wesbsite| Twigga Tech",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3forms-1-1424x789.png",
+                "thumb": "@PROJECT_PATH@/assets/images/3forms-1-1424x789-800x492.png",
+                "alt": "Tripple Forms",
+                "title": "Forms || Twigga Tech",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/capture00-1586x791.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture00-1586x791-800x484.png",
+                "alt": "Dark themed restaurant website | Twigga tech",
+                "title": "Dark themed restaurant website ",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/author-6-1488x769.png",
+                "thumb": "@PROJECT_PATH@/assets/images/author-6-1488x769-800x491.png",
+                "alt": "Author WEbsite",
+                "title": "Author Wedbsite Twigga Tech",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/clothing-3-1559x798.png",
+                "thumb": "@PROJECT_PATH@/assets/images/clothing-3-1559x798-800x494.png",
+                "alt": "Clothes Shop Twigga tec",
+                "title": "Clothes shopping website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/birds-website-1579x797.png",
+                "thumb": "@PROJECT_PATH@/assets/images/birds-website-1579x797-800x444.png",
+                "alt": "Bird Website",
+                "title": "Amazing bird website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/electro-shop-2-1464x767.png",
+                "thumb": "@PROJECT_PATH@/assets/images/electro-shop-2-1464x767-800x419.png",
+                "alt": "Electronic Ecomerce website",
+                "title": "Electronic E-commerce website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/404-1-1513x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/404-1-1513x800-800x497.png",
+                "alt": "404 Error page",
+                "title": "404 Error page",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ecommerce-3-1563x792.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ecommerce-3-1563x792-800x460.png",
+                "alt": "Eccomerce Shopping site",
+                "title": "Ecommerce Shopping Site",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/estate-1463x796.png",
+                "thumb": "@PROJECT_PATH@/assets/images/estate-1463x796-800x435.png",
+                "alt": "Real Estate website 3 made by twigga ",
+                "title": "Real estate website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/biz-pro-1583x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/biz-pro-1583x800-800x505.png",
+                "alt": "Corporate website",
+                "title": "Corporate/business website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/natural-1584x772.png",
+                "thumb": "@PROJECT_PATH@/assets/images/natural-1584x772-800x495.png",
+                "alt": "Nature Website made by Twigga tech",
+                "title": "Nature website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/start-up-1503x754.png",
+                "thumb": "@PROJECT_PATH@/assets/images/start-up-1503x754-800x401.png",
+                "alt": "Startup Business website",
+                "title": "Startup Business website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/transporter-1-1341x788.png",
+                "thumb": "@PROJECT_PATH@/assets/images/transporter-1-1341x788-800x470.png",
+                "alt": "Travel Agency Website",
+                "title": "Travel Agency Website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/plants-1584x796.png",
+                "thumb": "@PROJECT_PATH@/assets/images/plants-1584x796-800x402.png",
+                "alt": "Florae website",
+                "title": "Florae/Plants website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/realest-1467x792.png",
+                "thumb": "@PROJECT_PATH@/assets/images/realest-1467x792-800x432.png",
+                "alt": "Real Estate 4 Website",
+                "title": "Real Estate 4 website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tour-1-1413x797.png",
+                "thumb": "@PROJECT_PATH@/assets/images/tour-1-1413x797-800x530.png",
+                "alt": "Adventure website",
+                "title": "Adventure website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/wind-1408x796.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wind-1408x796-800x452.png",
+                "alt": "Wind Energy website",
+                "title": "Wind Energy Website",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vila-1414x794.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vila-1414x794-800x449.png",
+                "alt": "Home Villas /Real Estate website",
+                "title": "Home Villas /Real Estate website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/master-loggin-1550x777.png",
+                "thumb": "@PROJECT_PATH@/assets/images/master-loggin-1550x777-800x502.png",
+                "alt": "Login Form ",
+                "title": "Log in form with background image",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/swpool-1-1561x793.png",
+                "thumb": "@PROJECT_PATH@/assets/images/swpool-1-1561x793-800x439.png",
+                "alt": "Amazing Blue Themed Swimming pool website",
+                "title": "Amazing Blue Themed Swimming pool website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/humberger-1563x778.png",
+                "thumb": "@PROJECT_PATH@/assets/images/humberger-1563x778-800x398.png",
+                "alt": "REstaurant/Hotel Website",
+                "title": "REstaurant/Hotel Website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/donate-1577x769.png",
+                "thumb": "@PROJECT_PATH@/assets/images/donate-1577x769-800x390.png",
+                "alt": "Donation Website",
+                "title": "Donation Website",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/trip-1555x777.png",
+                "thumb": "@PROJECT_PATH@/assets/images/trip-1555x777-800x400.png",
+                "alt": "Adventure/Tour Website",
+                "title": "Adventure/Tour Website",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-h"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tree-2916763-1920-1920x1138.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5",
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15955.015667134974!2d36.89444985828855!3d-1.3234998146030927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ske!4v1561454707951!5m2!1sen!2ske\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>Address</strong><br>Airport North Road<br>Nairobi, &nbsp;Kenya<br><br><br>\n<strong>Contacts</strong><br>\nEmail: samstore637@gmail.com<br>Email 2: josephsam046@gmail.com<br><br>\nPhone : +254 799 756 331<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Roboto Slab, serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Offers</b></span></font></p><p class=\"mbr-contacts__text\">Our offers are extreemely tempting and irresistable. Comparing what we are charging to the result you will get when completed is completely fascinating and interesting. I bet you are asking how we do this but believe us, we are good at doing good stuffs. We also noticed that some clients don't have full cash for payment that's why we have created a monthly payment plan whereby you will deposit 40% &nbsp;of the amount then the rest will be paid up to 3 months in form of installments</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-e",
+          "_styles": {
+            "STRONG": {
+              "color": "#2969b0"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
