@@ -1,0 +1,33 @@
+/* The Success page Stylesheet */
+
+.background-image {
+    height:auto;
+    left:0;
+    min-height:100%;
+    min-width:1024px;
+    position: fixed;
+    top:0;   
+    width:100%;
+    z-index: -1;
+}
+
+#dot-matrix {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 1
+}
+
+#content {
+    z-index: 9999;
+    position: relative;
+    margin: auto;
+    width: 60%
+}
+
+p {
+    background: rgba(0, 0, 0, 0.4);
+    color: tomato;
+    font: normal normal bold 4.4em/1.1 Helvetica, sans-serif;
+}
